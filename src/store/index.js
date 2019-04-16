@@ -282,6 +282,7 @@ export const state = () => ({
 			url: "http://kosugi.jcp-seven.jp/",
 			facebook: "https://www.facebook.com/kosugi.jcp/",
 			twitter: "https://twitter.com/kazuo_kosugi",
+			hasCar: true,
 		},
 		{
 			id: "30",
