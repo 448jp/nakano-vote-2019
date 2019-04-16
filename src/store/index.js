@@ -304,6 +304,7 @@ export const state = () => ({
 			url: "http://hirokawa.jcp-seven.jp/",
 			facebook: "https://www.facebook.com/profile.php?id=100008930945865",
 			twitter: "https://twitter.com/hirokawa_m",
+			hasCar: true,
 		},
 		{
 			id: "32",
