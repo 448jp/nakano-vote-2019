@@ -356,6 +356,7 @@ export const state = () => ({
 			url: "http://takashiyamamoto.jp/",
 			facebook: "https://www.facebook.com/yamtkc/",
 			twitter: "https://twitter.com/yamtkc",
+			hasCar: true,
 		},
 		{
 			id: "37",
