@@ -168,6 +168,7 @@ export const state = () => ({
 			url: "http://www.kuborika.jp/",
 			facebook: "https://www.facebook.com/kuborika.nakano/",
 			twitter: "https://twitter.com/kuborikadon",
+			hasCar: true,
 		},
 		{
 			id: "19",
