@@ -3,7 +3,7 @@ import pkg from "./package";
 export default {
 	srcDir: "src/",
 
-	mode: "universal",
+	mode: "spa",
 
 	/*
 	 ** Headers of the page
