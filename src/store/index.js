@@ -249,6 +249,7 @@ export const state = () => ({
 			partyId: "3",
 			url: "http://www.raiju.net/",
 			facebook: "https://www.facebook.com/kazuyuki.raiju",
+			hasCar: true,
 		},
 		{
 			id: "27",
