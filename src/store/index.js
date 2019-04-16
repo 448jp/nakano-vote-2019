@@ -361,6 +361,7 @@ export const state = () => ({
 			url: "http://hiyama.tv/",
 			facebook: "https://www.facebook.com/hiyamatakashifp",
 			twitter: "https://twitter.com/hiyamatakashi",
+			hasCar: true,
 		},
 		{
 			id: "38",
