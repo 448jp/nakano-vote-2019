@@ -586,6 +586,7 @@ export const state = () => ({
 			name: "川部 貴之",
 			nameRuby: "かわべたかゆき",
 			partyId: "6",
+			url: "https://takayukikawabe.wixsite.com/offical",
 		},
 	],
 	// 政党
