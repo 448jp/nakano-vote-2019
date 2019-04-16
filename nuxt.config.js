@@ -82,7 +82,7 @@ export default {
 		routes: Array(60)
 			.fill(0)
 			.map((v, i) => {
-				return `/candidate/${i + 1}`;
+				return `/candidates/${i + 1}`;
 			}),
 	},
 };
