@@ -323,6 +323,7 @@ export const state = () => ({
 			name: "酒井 たくや",
 			nameRuby: "さかいさくや",
 			partyId: "4",
+			hasCar: true,
 		},
 		{
 			id: "34",
