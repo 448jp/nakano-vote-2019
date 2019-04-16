@@ -44,7 +44,12 @@ export default {
 	 ** Nuxt.js modules
 	 */
 	modules: [
-		// Doc: https://buefy.github.io/#/documentation
+		[
+			"@nuxtjs/google-analytics",
+			{
+				id: "UA-118896487-3",
+			},
+		],
 		[
 			"nuxt-buefy",
 			{
