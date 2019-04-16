@@ -398,6 +398,7 @@ export const state = () => ({
 			url: "http://www.daizaburo.jp/",
 			facebook: "https://www.facebook.com/uchino.daizaburo",
 			twitter: "https://twitter.com/dai326uchino",
+			hasCar: true,
 		},
 		{
 			id: "42",
