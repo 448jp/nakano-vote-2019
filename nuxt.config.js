@@ -9,7 +9,7 @@ export default {
 	 ** Headers of the page
 	 */
 	head: {
-		title: pkg.name,
+		title: "中野区で選挙カーを使っているのは誰？",
 		meta: [
 			{ charset: "utf-8" },
 			{
