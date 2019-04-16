@@ -517,6 +517,7 @@ export const state = () => ({
 			url: "https://rio-tateishi.com/",
 			facebook: "https://www.facebook.com/riotateishi0129/",
 			twitter: "https://twitter.com/Tateishi_Rio",
+			hasCar: true,
 		},
 		{
 			id: "54",
