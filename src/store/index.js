@@ -293,6 +293,7 @@ export const state = () => ({
 			url: "http://hatori.jcp-seven.jp/",
 			facebook: "https://www.facebook.com/hatori.jcp/",
 			twitter: "https://twitter.com/hatoridaisuke",
+			hasCar: true,
 		},
 		{
 			id: "31",
