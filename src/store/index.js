@@ -551,7 +551,7 @@ export const state = () => ({
 			notificationId: "11",
 			name: "染川 たかひと",
 			nameRuby: "そめかわたかひと",
-			partyId: "6",
+			partyId: "11",
 			url: "http://a-bc.party/",
 			twitter: "https://twitter.com/somekawa_abc",
 			hasCar: false,
@@ -614,8 +614,8 @@ export const state = () => ({
 		},
 		{
 			id: "7",
-			name: "生活者ネットワーク、緑の党グリーンズジャパン",
-			shortName: "生活、緑",
+			name: "中野・生活者ネットワーク",
+			shortName: "生活",
 		},
 		{
 			id: "8",
@@ -631,6 +631,11 @@ export const state = () => ({
 			id: "10",
 			name: "NHKから国民を守る党",
 			shortName: "NHK",
+		},
+		{
+			id: "11",
+			name: "ブラック企業をなくす党",
+			shortName: "ブラック",
 		},
 	],
 });
