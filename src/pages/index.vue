@@ -1,7 +1,7 @@
 <template>
 	<b-table :data="candidates">
 		<template slot-scope="candidate">
-			<b-table-column field="name" label="名前">
+			<b-table-column field="nameRuby" label="名前" sortable>
 				<nuxt-link :to="`/candidates/${candidate.row.notificationId}`">
 					{{ candidate.row.name }}
 				</nuxt-link>
