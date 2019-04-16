@@ -260,6 +260,7 @@ export const state = () => ({
 			url: "http://nagasawa.lawmaker.jp/",
 			facebook: "https://www.facebook.com/kazuhiko.nagasawa.2",
 			twitter: "https://twitter.com/kazutigers0421",
+			hasCar: true,
 		},
 		{
 			id: "28",
