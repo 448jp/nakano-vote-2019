@@ -140,6 +140,7 @@ export const state = () => ({
 			partyId: "1",
 			url: "https://yasuyuki-akimoto.com/",
 			facebook: "https://www.facebook.com/akimoto.yasuyuki/",
+			hasCar: true,
 		},
 		{
 			id: "16",
