@@ -17,6 +17,16 @@
 			>
 				{{ hasCar(candidate.row.hasCar) }}
 			</b-table-column>
+			<b-table-column field="url" label="公式サイト">
+				<a
+					v-if="candidate.row.url"
+					:href="candidate.row.url"
+					target="_blank"
+					rel="noreferrer"
+				>
+					🌐
+				</a>
+			</b-table-column>
 		</template>
 	</b-table>
 </template>
