@@ -467,6 +467,7 @@ export const state = () => ({
 			partyId: "7",
 			url: "http://hosono.seikatsusha.me/",
 			twitter: "https://twitter.com/hosonokayoko",
+			hasCar: true,
 		},
 		{
 			id: "49",
