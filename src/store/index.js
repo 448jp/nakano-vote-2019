@@ -17,6 +17,7 @@ export const state = () => ({
 			url: "http://www.tchiaki.jp/",
 			facebook: "https://www.facebook.com/chiaki.takahashi.965580",
 			twitter: "https://twitter.com/ta_chiaki",
+			hasCar: true,
 		},
 		{
 			id: "3",
@@ -24,6 +25,7 @@ export const state = () => ({
 			name: "伊藤 正信",
 			nameRuby: "いとうまさのぶ",
 			partyId: "1",
+			hasCar: true,
 		},
 		{
 			id: "4",
@@ -128,6 +130,7 @@ export const state = () => ({
 			url: "http://ukai-toyoji.com/",
 			facebook:
 				"https://www.facebook.com/%E3%81%86%E3%81%8B%E3%81%84%E8%B1%8A%E5%A3%AB-1985398861576892/",
+			hasCar: true,
 		},
 		{
 			id: "15",
@@ -154,6 +157,7 @@ export const state = () => ({
 			name: "佐野 晃子",
 			nameRuby: "さとうあきこ",
 			partyId: "1",
+			hasCar: true,
 		},
 		{
 			id: "18",
@@ -427,6 +431,7 @@ export const state = () => ({
 			nameRuby: "こんどうさえこ",
 			partyId: "6",
 			url: "http://www.koeda-net.com/",
+			hasCar: true,
 		},
 		{
 			id: "45",
@@ -448,6 +453,7 @@ export const state = () => ({
 			url: "http://ishizakawataru.jp/",
 			facebook: "https://www.facebook.com/ishizakawataru/",
 			twitter: "https://twitter.com/ishizakawataru",
+			hasCar: true,
 		},
 		{
 			id: "47",
