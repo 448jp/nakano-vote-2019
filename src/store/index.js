@@ -503,6 +503,7 @@ export const state = () => ({
 			url: "http://sirakashi.net/",
 			facebook: "https://www.facebook.com/profile.php?id=100015148997273",
 			twitter: "https://twitter.com/shirakashi0815",
+			hasCar: true,
 		},
 		{
 			id: "51",
