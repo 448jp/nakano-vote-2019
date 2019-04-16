@@ -38,6 +38,10 @@
 			</div>
 		</div>
 		<hr />
+		<h2 class="title is-2">{{ my.name }}さんの詳細情報</h2>
+		<p>党派：{{ party.name }}</p>
+		<b-button v-if="my.url" @click="gotoWeb">公式サイト</b-button>
+		<hr />
 		<nuxt-link to="/">トップページに戻る</nuxt-link>
 	</div>
 </template>
@@ -82,6 +86,11 @@ export default {
 				default:
 					return "選挙カーを使っていません";
 			}
+		},
+	},
+	methods: {
+		gotoWeb() {
+			window.open(this.my.url, "_blank");
 		},
 	},
 	asyncData({ route }) {
