@@ -77,4 +77,12 @@ export default {
 			}
 		},
 	},
+
+	generate: {
+		routes: Array(60)
+			.fill(0)
+			.map((v, i) => {
+				return `/candidate/${i + 1}`;
+			}),
+	},
 };
