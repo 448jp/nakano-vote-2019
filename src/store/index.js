@@ -121,6 +121,7 @@ export const state = () => ({
 			url: "https://satokohirachi.crayonsite.com/",
 			facebook:
 				"https://www.facebook.com/%E5%B9%B3%E5%9C%B0%E3%81%95%E3%81%A8%E5%AD%90-150078845838077/",
+			hasCar: true,
 		},
 		{
 			id: "14",
