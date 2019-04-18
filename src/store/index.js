@@ -42,6 +42,7 @@ export const state = () => ({
 			partyId: "1",
 			facebook: "https://www.facebook.com/ideiryousuke/",
 			twitter: "https://twitter.com/idei_nakano",
+			hasCar: true,
 		},
 		{
 			id: "6",
