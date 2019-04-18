@@ -33,6 +33,7 @@ export const state = () => ({
 			name: "大内 しんご",
 			nameRuby: "おおうちしんご",
 			partyId: "1",
+			hasCar: true,
 		},
 		{
 			id: "5",
