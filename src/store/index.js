@@ -192,6 +192,7 @@ export const state = () => ({
 			partyId: "2",
 			url: "http://www.komei.or.jp/km/nakano-hirayama-hideaki/",
 			facebook: "https://www.facebook.com/hideaki.hirayama.18",
+			hasCar: true,
 		},
 		{
 			id: "21",
